@@ -1,0 +1,15 @@
+@include('frontent.include.head')
+@include('frontent.include.css')
+@include('frontent.include.header')
+@include('frontent.include.branding')
+@include('frontent.include.manuaria')
+
+@include('frontent.include.slider')
+@include('frontent.include.promoarea')
+@include('frontent.include.maincontent')
+@include('frontent.include.brandaria')
+@include('frontent.include.productWedget')
+@include('frontent.include.footerTop')
+@include('frontent.include.footerBottom')
+
+@include('frontent.include.scripts')
